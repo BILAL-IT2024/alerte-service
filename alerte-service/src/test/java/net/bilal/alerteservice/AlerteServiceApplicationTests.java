@@ -1,0 +1,13 @@
+package net.bilal.alerteservice;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class AlerteServiceApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
